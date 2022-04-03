@@ -1,6 +1,6 @@
-# Cloudflare Dynamic DNS IP Updater
+# Cloudflare Dynamic DNS IPv6+IPv4 Updater
 
-These scripts are used to update Dynamic DNS (DDNS) service based on Cloudflare for both IPv6 and IPv4 connectivity! Access your home network remotely via a custom domain name without a static IP! Written in pure BASH.
+These scripts are used to update DNS records based on Cloudflare using IPv6 and IPv4 connectivity!
 
 ## Installation
 
