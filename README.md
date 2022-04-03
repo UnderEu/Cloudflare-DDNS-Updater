@@ -30,4 +30,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This script was made with reference from [Keld Norman](https://www.youtube.com/watch?v=vSIBkH7sxos) video.
 
 ## License
-[MIT](https://github.com/UnderEu/cloudflare-ddns-updater/blob/main/LICENSE)
+[MIT](https://github.com/UnderEu/Cloudflare-DDNS-Updater/blob/main/LICENSE)
