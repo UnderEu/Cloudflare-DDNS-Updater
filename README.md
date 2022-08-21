@@ -23,9 +23,6 @@ This script is used with crontab. Specify the frequency of execution through cro
 # * * * * * /bin/bash {Location of the script}
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 ## Reference
 This script was made with reference from [Keld Norman](https://www.youtube.com/watch?v=vSIBkH7sxos) video.
 
